@@ -2,7 +2,7 @@
 	<info organisation="org.apache" module="hello-ivy" />
 	<dependencies>
 		<dependency org="commons-collections" name="commons-collections"
-			rev="3.2.1" />
+			rev="3.2.2" />
 		<dependency org="commons-pool" name="commons-pool" rev="1.5.4" />
 		<dependency org="log4j" name="log4j" rev="1.2.16" />
 		<dependency org="org.slf4j" name="slf4j-api" rev="1.6.0"/>
